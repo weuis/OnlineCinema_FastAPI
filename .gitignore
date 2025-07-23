@@ -2,3 +2,5 @@
 pyvenv.cfg
 bin
 lib
+.idea/
+test_main.http
