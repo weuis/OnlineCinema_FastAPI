@@ -7,3 +7,5 @@ test_main.http
 alembic/
 alembic.ini
 app/__pycache__/
+app/db/__pycache__/
+app/models/__pycache__/
